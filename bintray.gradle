@@ -1,9 +1,7 @@
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
-
 // This is the library version used when deploying the artifact
 version = PROJ_VERSION
-
 // Maven Group ID for the artifact
 group = PROJ_GROUP
 
