@@ -1,7 +1,7 @@
 gradle-bintray-upload
 ==
 
-[Android Studio上传Library库到JCenter，并同步到Maven Central](http://www.jianshu.com/p/9f65c81be20f)
+[Android Studio上传Library库到JCenter，并同步到Maven Central](http://blog.csdn.net/venshine/article/details/51742926)
 
 bintray.gradle：发布到JCenter的脚本  
 
